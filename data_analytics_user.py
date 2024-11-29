@@ -70,7 +70,7 @@ def search_agents():
         print(f'---------------------{available_ais}----------------------')
 
         # Directly access the 'ais' list within 'agents'
-        agents = available_ais.get('agents', [])
+        agents = available_ais.get('ais', [])
         print(f'----------------------------------{agents}------------------------------------')
 
         extracted_data = []
