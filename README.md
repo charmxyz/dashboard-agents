@@ -105,6 +105,6 @@ If successful, you will receive a URL for the visualizations dashboard.
 
 ### Sample output
 
-Sample output for this can be visited on : https://youtu.be/vmSaJG2RrN4
+Sample output for this can be visited on : [https://youtu.be/vmSaJG2RrN4](https://youtu.be/0tDdsuaSGu4)
 
 
