@@ -89,7 +89,7 @@ Send a dataset to the analytics agent for visualization:
 curl -X POST http://localhost:5002/api/send-data \
 -H "Content-Type: application/json" \
 -d '{
-  "dataPath": "data.csv",
+  "dataPath": "data.csv", # save the data with in the same directory as agent scripts. as it is taking it locally at the momement.
   "agentAddress": "replace-with-agent-address-from-search"
 }'
 ```
