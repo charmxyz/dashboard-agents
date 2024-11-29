@@ -103,5 +103,8 @@ curl -X GET http://localhost:5002/api/get-dashboard-response
 
 If successful, you will receive a URL for the visualizations dashboard.
 
+### Sample output
+
+Sample output for this can be visited on : https://youtu.be/vmSaJG2RrN4
 
 
