@@ -195,6 +195,7 @@ def init_agent():
                 </payload_requirements>
             """
         )
+        logger.info(analytics_identity.address)
         logger.info("Analytics agent registered successfully!")
     except Exception as e:
         logger.error(f"Error initializing agent: {e}")
